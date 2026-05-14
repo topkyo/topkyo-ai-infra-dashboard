@@ -1,6 +1,6 @@
-# pyserver —— akshare 边车
+# pyserver —— akshare sidecar
 
-基于 FastAPI 的轻量边车，封装 [akshare](https://github.com/akfamily/akshare)，只对外暴露 Next.js 网站需要的端点。
+基于 FastAPI 的轻量sidecar，封装 [akshare](https://github.com/akfamily/akshare)，只对外暴露 Next.js 网站需要的端点。
 
 所有响应都写入 `cache.db`（SQLite），按端点设置分层 TTL：
 
@@ -26,9 +26,9 @@ uv add <pkg>           # 写入 pyproject.toml + uv.lock
 uv lock --upgrade      # 整体升级
 ```
 
-## 为什么用边车？
+## 为什么用sidecar？
 
-`akshare` 仅有 Python 实现。把它放进一个独立的 FastAPI 进程，可以让 Next.js 端保持纯 TypeScript，同时通过稳定、强类型、自带缓存的 HTTP 接口消费它。边车会吸收 akshare 上游的各种字段命名差异和限流问题。
+`akshare` 仅有 Python 实现。把它放进一个独立的 FastAPI 进程，可以让 Next.js 端保持纯 TypeScript，同时通过稳定、强类型、自带缓存的 HTTP 接口消费它。sidecar会吸收 akshare 上游的各种字段命名差异和限流问题。
 
 ## 端点速查
 

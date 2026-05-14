@@ -10,7 +10,7 @@
 
 ```
 ┌──────────────────────────┐       ┌──────────────────────────────┐
-│   Next.js 网站 (web/)     │ HTTP  │  Python 边车 (pyserver/)      │
+│   Next.js 网站 (web/)     │ HTTP  │  Python sidecar (pyserver/)      │
 │  - 自选/K 线/信号 UI      │ ────► │  - akshare 封装               │
 │  - 回测引擎 (TS)          │       │  - SQLite K 线/基本面缓存     │
 │  - DeepSeek 策略大模型    │       │    (分层 TTL)                 │
@@ -35,7 +35,7 @@
 ## 快速开始
 
 ```bash
-# 1. Python 边车（akshare）—— 使用 uv 管理依赖
+# 1. Python sidecar（akshare）—— 使用 uv 管理依赖
 cd pyserver
 uv sync
 uv run uvicorn main:app --port 8001 --reload
@@ -69,7 +69,7 @@ PYSERVER_URL=http://localhost:8001
 ```
 silicon-civilization-stock-trade/
 ├── README.md
-├── pyserver/              # FastAPI + akshare 边车
+├── pyserver/              # FastAPI + akshare sidecar
 │   ├── main.py
 │   ├── pyproject.toml     # uv 管理
 │   └── uv.lock
@@ -81,7 +81,7 @@ silicon-civilization-stock-trade/
     │   └── api/backtest/route.ts     # 回测 API
     └── lib/
         ├── universe.ts               # 股票池
-        ├── pyserver.ts               # akshare 边车客户端
+        ├── pyserver.ts               # akshare sidecar客户端
         ├── deepseek.ts               # DeepSeek 客户端 + 策略提示词
         ├── backtest.ts               # 走向无未来函数的回测引擎
         └── cache.ts                  # SQLite KV 缓存

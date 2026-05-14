@@ -80,11 +80,42 @@ export async function runBacktest(
   const byDate = series.map((s) => indexByDate(s.klines));
   const symbols = series.map((s) => s.entry.symbol);
 
+  const t0 = Date.now();
+  // Pre-fetch ALL rebalance signals in parallel. Signals at date D depend
+  // only on price history <= D, never on what we held — independent calls.
+  // Cached entries return instantly; uncached fire concurrently (bounded).
+  const rebalanceDates = dates.filter((_, i) => i % cfg.rebalanceEveryNDays === 0);
+  const signalsByDate: Record<string, Signal[]> = {};
+  const CONCURRENCY = 6;
+  for (let i = 0; i < rebalanceDates.length; i += CONCURRENCY) {
+    const slice = rebalanceDates.slice(i, i + CONCURRENCY);
+    const results = await Promise.all(
+      slice.map(async (d) => {
+        const snapshots: SymbolSnapshot[] = series.map((s) => {
+          const upto = s.klines.filter((k) => k.date <= d);
+          return {
+            symbol: s.entry.symbol,
+            name: s.entry.name,
+            theme: s.entry.theme,
+            closes: upto.map((k) => k.close),
+            fundamental: s.fundamental,
+          };
+        });
+        return [d, await scoreSymbols(snapshots, { asOf: d, mode: "backtest" })] as const;
+      }),
+    );
+    for (const [d, sigs] of results) signalsByDate[d] = sigs;
+  }
+  console.log(
+    `[backtest] fetched ${rebalanceDates.length} rebalance signals in ${
+      ((Date.now() - t0) / 1000).toFixed(1)
+    }s (concurrency=${CONCURRENCY})`,
+  );
+
   let cash = cfg.startCash;
   const shares: Record<string, number> = Object.fromEntries(symbols.map((s) => [s, 0]));
   const equityCurve: PortfolioBar[] = [];
   const trades: BacktestResult["trades"] = [];
-  const signalsByDate: Record<string, Signal[]> = {};
   const fee = cfg.feeBps / 10_000;
 
   for (let i = 0; i < dates.length; i++) {
@@ -97,18 +128,7 @@ export async function runBacktest(
 
     // Rebalance day?
     if (i % cfg.rebalanceEveryNDays === 0) {
-      const snapshots: SymbolSnapshot[] = series.map((s, j) => {
-        const upto = s.klines.filter((k) => k.date <= date);
-        return {
-          symbol: s.entry.symbol,
-          name: s.entry.name,
-          theme: s.entry.theme,
-          closes: upto.map((k) => k.close),
-          fundamental: s.fundamental,
-        };
-      });
-      const signals = await scoreSymbols(snapshots, { asOf: date, mode: "backtest" });
-      signalsByDate[date] = signals;
+      const signals = signalsByDate[date] ?? [];
 
       // Sells first to free cash
       for (const sig of signals) {

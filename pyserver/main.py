@@ -170,19 +170,21 @@ def fundamental(symbol: str):
     out: dict[str, Any] = {"symbol": symbol}
     try:
         if market != "hk":
-            # 个股指标 - PE/PB/总市值
-            ind = ak.stock_a_indicator_lg(symbol=code)
+            # PE(TTM) / PB / 总市值 from eastmoney —— stock_a_indicator_lg was
+            # removed in akshare 1.18.x; stock_value_em is the supported successor.
+            ind = ak.stock_value_em(symbol=code)
             if ind is not None and not ind.empty:
                 latest = ind.iloc[-1]
-                out["pe_ttm"] = float(latest.get("pe_ttm")) if pd.notna(latest.get("pe_ttm")) else None
-                out["pb"] = float(latest.get("pb")) if pd.notna(latest.get("pb")) else None
-                tm = latest.get("total_mv")
-                out["market_cap"] = float(tm) / 1e4 if pd.notna(tm) else None  # 万元->亿元
-            # 实时 spot to get name + last close
+                pe = latest.get("PE(TTM)")
+                pb = latest.get("市净率")
+                mc = latest.get("总市值")  # 元
+                out["pe_ttm"] = float(pe) if pd.notna(pe) else None
+                out["pb"] = float(pb) if pd.notna(pb) else None
+                out["market_cap"] = float(mc) / 1e8 if pd.notna(mc) else None  # 元 -> 亿元
             try:
-                spot = ak.stock_individual_info_em(symbol=code)
-                if spot is not None and not spot.empty:
-                    kv = dict(zip(spot["item"], spot["value"]))
+                info = ak.stock_individual_info_em(symbol=code)
+                if info is not None and not info.empty:
+                    kv = dict(zip(info["item"], info["value"]))
                     out["name"] = kv.get("股票简称")
             except Exception:
                 pass
