@@ -1,6 +1,8 @@
 # Silicon Civilization Stock Trade
 
-A trading strategy system focused on **硅基文明消费股** — consumer stocks benefiting from the AI/silicon-civilization wave (AI hardware, AI-native consumer apps, smart-device makers, AI-enabled robotics consumer goods, etc.).
+A trading strategy system focused on **硅基文明消费股**.
+
+**Thesis.** "硅基文明消费" is *not* humans buying AI gadgets — it is what a silicon-based AI civilization itself consumes to exist and scale: compute chips, optical interconnect, AI servers, liquid cooling, electricity (green + nuclear), IDC capacity, HBM/memory, semiconductor equipment & materials, high-speed PCB, foundry capacity, cloud. We long the picks-and-shovels feeding the AI substrate.
 
 ## Architecture
 
