@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T08:42:11.486Z",
+  "generated_at": "2026-05-18T11:40:07.863Z",
   "fundamentals": [
     {
       "symbol": "688256",
@@ -367,421 +367,421 @@
       "symbol": "688256",
       "action": "sell",
       "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "PE 279倍估值奇高，近期冲高回落，短期风险大于机会。"
+      "size": 0.5,
+      "rationale": "估值极高，PE/PB远超行业，短线高位回调，拥挤度过高，减仓为宜。"
     },
     {
       "symbol": "688041",
       "action": "sell",
       "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "PE超250倍，股价从高位快速回调，拥挤度较高。"
+      "size": 0.5,
+      "rationale": "估值高企，PE 258/PB 30，近期冲高回落，存在泡沫风险，卖出观望。"
     },
     {
       "symbol": "688047",
       "action": "sell",
-      "confidence": 0.8,
-      "size": 0.1,
-      "rationale": "亏损且PB 26倍，趋势走弱，无业绩支撑。"
+      "confidence": 0.6,
+      "size": 0.4,
+      "rationale": "PE为负，PB 26.7，股价高位回落，缺乏业绩支撑，卖出。"
     },
     {
       "symbol": "300474",
       "action": "hold",
       "confidence": 0.5,
       "size": 0.2,
-      "rationale": "估值适中，但走势平淡缺乏催化，观望。"
+      "rationale": "估值尚可，股价窄幅波动，AI芯片概念受益但未体现在业绩，暂持。"
     },
     {
       "symbol": "002049",
       "action": "buy",
       "confidence": 0.6,
       "size": 0.3,
-      "rationale": "PE 39倍合理，近期回调提供安全边际，AI芯片受益。"
+      "rationale": "PE 39合理，FPGA+特种芯片受益AI，趋势稳健向上，可逐步建仓。"
     },
     {
       "symbol": "688385",
-      "action": "sell",
-      "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "PE 232倍高估，股价破位下行，卖出。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "估值偏高，股价震荡，缺乏明显催化，持有观察。"
     },
     {
       "symbol": "300308",
-      "action": "sell",
-      "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "光模块龙头涨幅过大，PE 78倍已反映预期，短期获利回吐。"
+      "action": "hold",
+      "confidence": 0.6,
+      "size": 0.4,
+      "rationale": "光模块龙头，需求强劲但涨幅巨大，估值偏高，锁定利润，暂持。"
     },
     {
       "symbol": "300502",
-      "action": "sell",
-      "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "股价高位震荡，PE 56倍不低，动能减弱。"
+      "action": "buy",
+      "confidence": 0.6,
+      "size": 0.2,
+      "rationale": "PE 56相对合理，光模块需求持续，近期回调后企稳，小仓试多。"
     },
     {
       "symbol": "300394",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "估值143倍过高，近期反弹乏力，风险积聚。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "PE 143估值较高，走势弱于板块，持有观察。"
     },
     {
       "symbol": "000988",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "近期涨幅巨大，PE 79倍偏高，倾向调整。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.3,
+      "rationale": "光模块补涨，PE 79适中，但短线涨幅已大，暂持。"
     },
     {
       "symbol": "002281",
       "action": "sell",
-      "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "PE超150倍，股价冲高回落，风险大。"
+      "confidence": 0.8,
+      "size": 0.7,
+      "rationale": "PE 152极高，短期连续暴涨，极度拥挤，大概率回调，大幅减仓。"
     },
     {
       "symbol": "603083",
       "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 189倍极高，趋势下行，卖出。"
+      "confidence": 0.7,
+      "size": 0.5,
+      "rationale": "PE 189，高位回落，估值泡沫明显，卖出。"
     },
     {
       "symbol": "301205",
       "action": "sell",
       "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "PE 410倍离谱，高位明显回落，离场。"
+      "size": 0.5,
+      "rationale": "PE 410不可思议，股价高位震荡，风险收益比差，卖出。"
     },
     {
       "symbol": "601138",
       "action": "buy",
-      "confidence": 0.6,
-      "size": 0.3,
-      "rationale": "PE 33倍合理，AI服务器核心受益，调整后有望上行。"
+      "confidence": 0.7,
+      "size": 0.4,
+      "rationale": "AI服务器龙头，PE 33相对低估，订单饱满，回调后机会，买入。"
     },
     {
       "symbol": "000977",
       "action": "buy",
-      "confidence": 0.7,
+      "confidence": 0.6,
       "size": 0.3,
-      "rationale": "PE 40倍，服务器需求高景气，回调是布局机会。"
+      "rationale": "PE 40合理，服务器需求高增，股价回调至支撑，可介入。"
     },
     {
       "symbol": "603019",
       "action": "hold",
       "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 62倍偏贵，股价回调整理，等待更好买点。"
+      "size": 0.3,
+      "rationale": "PE 62适中，趋势向上但短期震荡，持有。"
     },
     {
       "symbol": "000938",
       "action": "buy",
       "confidence": 0.6,
       "size": 0.3,
-      "rationale": "PE 43倍，随AI算力扩张，服务器业务增长明确。"
+      "rationale": "PE 42，服务器+网络设备，稳步上行，估值合理，买入。"
     },
     {
       "symbol": "000063",
       "action": "buy",
       "confidence": 0.7,
-      "size": 0.3,
-      "rationale": "PE 39倍且PB仅2.3，估值洼地，AI服务器业务拓展。"
+      "size": 0.4,
+      "rationale": "PE 39低估值，AI服务器/通信设备受益，走势稳健，配置。"
     },
     {
       "symbol": "002837",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 203倍，液冷炒作过热，回调压力大。"
+      "action": "buy",
+      "confidence": 0.7,
+      "size": 0.3,
+      "rationale": "液冷需求确定性高，近期回调消化估值，先建底仓。"
     },
     {
       "symbol": "301018",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 183倍高，股价走弱，短期风险。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "液冷概念，股价创新高但估值高，暂持观望。"
     },
     {
       "symbol": "300499",
       "action": "sell",
-      "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "PE 431倍极度高估，无业绩匹配，卖出。"
+      "confidence": 0.6,
+      "size": 0.4,
+      "rationale": "PE 431严重高估，小盘易波动，短线走弱，卖出。"
     },
     {
       "symbol": "300602",
       "action": "buy",
       "confidence": 0.6,
-      "size": 0.2,
-      "rationale": "PE 57倍在液冷中相对合理，趋势稳中偏强。"
+      "size": 0.3,
+      "rationale": "PE 57相对合理，液冷散热受益，走势稳健，可买入。"
     },
     {
       "symbol": "600900",
-      "action": "buy",
-      "confidence": 0.8,
-      "size": 0.4,
-      "rationale": "PE 18倍低估值，水电龙头，受益AI电力需求，防御性强。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.5,
+      "rationale": "防御性电力，AI用电逻辑，低波动，长持但短期无弹性，持有。"
     },
     {
       "symbol": "601985",
-      "action": "buy",
-      "confidence": 0.7,
-      "size": 0.4,
-      "rationale": "PE 23倍偏低，核电受益AI稳定电力需求。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.5,
+      "rationale": "核电受益AI电力需求，估值合理，持有。"
     },
     {
       "symbol": "003816",
-      "action": "buy",
-      "confidence": 0.7,
-      "size": 0.3,
-      "rationale": "PE 25倍，核电绿电核心，未来电力缺口受益。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.4,
+      "rationale": "核电稳健，短期缺乏催化剂，持有。"
     },
     {
       "symbol": "600905",
       "action": "hold",
       "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 50倍偏高，增长待验证，观望。"
+      "size": 0.3,
+      "rationale": "绿电，PE高成长慢，暂持。"
     },
     {
       "symbol": "600886",
-      "action": "buy",
-      "confidence": 0.6,
+      "action": "hold",
+      "confidence": 0.5,
       "size": 0.3,
-      "rationale": "PE 14倍极低，水电防御属性，股息稳定。"
+      "rationale": "电力低估，股息率高，防御配置，持有。"
     },
     {
       "symbol": "600011",
       "action": "buy",
-      "confidence": 0.7,
-      "size": 0.3,
-      "rationale": "PE仅8.5倍，火绿电转型，盈利改善。"
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "PE 8极低，火绿结合，受益电价，小仓配置。"
     },
     {
       "symbol": "300442",
       "action": "buy",
-      "confidence": 0.7,
+      "confidence": 0.6,
       "size": 0.3,
-      "rationale": "PE 32倍，IDC龙头扩张明确，成长性佳。"
+      "rationale": "IDC PE 32合理，算力需求驱动增长，回调企稳，买入。"
     },
     {
       "symbol": "300383",
-      "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "亏损且走势弱，缺乏催化剂，暂观望。"
+      "action": "sell",
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "PE负，股价逆势下跌，基本面偏弱，回避。"
     },
     {
       "symbol": "603881",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 208倍高，业绩不佳，估值压力大。"
-    },
-    {
-      "symbol": "300738",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 155倍，股价震荡无方向，风险收益比差。"
-    },
-    {
-      "symbol": "002335",
       "action": "hold",
       "confidence": 0.5,
       "size": 0.2,
-      "rationale": "PE 82倍偏高，IDC+储能概念，观望。"
+      "rationale": "IDC估值偏高，震荡走势，观望。"
+    },
+    {
+      "symbol": "300738",
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "IDC小盘高估值，近期反弹，暂持。"
+    },
+    {
+      "symbol": "002335",
+      "action": "buy",
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "IDC+新能源，PE 81尚可，趋势向上，买入。"
     },
     {
       "symbol": "603290",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "近期大涨后估值91倍，短期过热。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "功率半导体估值略高，持有观察。"
     },
     {
       "symbol": "688187",
       "action": "buy",
-      "confidence": 0.8,
-      "size": 0.4,
-      "rationale": "PE仅18倍，IGBT受益AI电力/车辆，突破平台，低估。"
+      "confidence": 0.7,
+      "size": 0.3,
+      "rationale": "PE 18低估值，IGBT龙头，放量突破后回调，买入。"
     },
     {
       "symbol": "688711",
       "action": "sell",
-      "confidence": 0.8,
-      "size": 0.1,
-      "rationale": "PE 407倍极离谱，业绩微薄，卖出。"
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "PE 407极高，小盘炒作，卖出。"
     },
     {
       "symbol": "605111",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 52倍，近期涨幅大，有回调需求。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "功率半导体PE 52合理，趋势向上，持有。"
     },
     {
       "symbol": "600460",
       "action": "hold",
       "confidence": 0.5,
       "size": 0.2,
-      "rationale": "PE 112倍高，公司质地尚可但估值贵，观望。"
+      "rationale": "IDM厂商估值偏高，暂持。"
     },
     {
       "symbol": "688396",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 90倍，冲高回落，获利了结。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "功率半导体估值提升中，持有。"
     },
     {
       "symbol": "600745",
       "action": "sell",
-      "confidence": 0.7,
-      "size": 0.1,
-      "rationale": "亏损且股价暴跌，基本面恶化，止损。"
+      "confidence": 0.8,
+      "size": 0.7,
+      "rationale": "手机ODM拖累，股价持续新低，基本面恶化，清仓。"
     },
     {
       "symbol": "603986",
-      "action": "sell",
+      "action": "hold",
       "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "存储大涨后PE 91倍，短期回调压力。"
+      "size": 0.4,
+      "rationale": "存储/HBM龙头，涨势强，PE 91但趋势未完，持有。"
     },
     {
       "symbol": "688008",
       "action": "sell",
       "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "股价暴涨后PE 118倍，获利盘重。"
+      "size": 0.4,
+      "rationale": "PE 118高，短期涨幅过大，获利了结部分。"
     },
     {
       "symbol": "300223",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 105倍，走势转弱，减仓。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.3,
+      "rationale": "存储芯片，估值偏高但温和，持有。"
     },
     {
       "symbol": "301308",
       "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 45倍尚可，但股价已翻倍，谨慎持有。"
+      "confidence": 0.6,
+      "size": 0.4,
+      "rationale": "存储模组龙头，PE 45相对合理，景气周期，持有。"
     },
     {
       "symbol": "002156",
-      "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 59倍合理，封测受益存储周期，持有。"
+      "action": "buy",
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "先进封装受益HBM，PE 59，趋势良好，买入。"
     },
     {
       "symbol": "600584",
-      "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 62倍，封测龙头，跟随行业波动。"
+      "action": "buy",
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "封装龙头PE 62，估值合理，受益Chiplet，买入。"
     },
     {
       "symbol": "002185",
-      "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 57倍，估值合理，走势平稳。"
+      "action": "buy",
+      "confidence": 0.7,
+      "size": 0.4,
+      "rationale": "PE 57，PB 2.6低估值封装补涨，买入。"
     },
     {
       "symbol": "002371",
       "action": "buy",
-      "confidence": 0.6,
-      "size": 0.3,
-      "rationale": "半导体设备龙头，订单确定，PE虽高但成长消化估值。"
+      "confidence": 0.7,
+      "size": 0.4,
+      "rationale": "半导体设备龙头，PE 76合理，扩产受益，趋势强，买入。"
     },
     {
       "symbol": "688012",
       "action": "buy",
-      "confidence": 0.6,
-      "size": 0.3,
-      "rationale": "刻蚀设备需求旺盛，PE虽99倍但业绩增速快。"
+      "confidence": 0.7,
+      "size": 0.4,
+      "rationale": "刻蚀设备龙头，PE 99略高但成长确定，趋势上行，买入。"
     },
     {
       "symbol": "688072",
-      "action": "buy",
-      "confidence": 0.6,
+      "action": "hold",
+      "confidence": 0.5,
       "size": 0.3,
-      "rationale": "薄膜设备订单饱满，股价创新高，趋势强劲。"
+      "rationale": "CVD设备估值较高，但景气度好，持有。"
     },
     {
       "symbol": "688126",
-      "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "亏损但大硅片国产替代，风险收益并存，观望。"
+      "action": "buy",
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "大硅片需求回暖，股价底部反弹，估值尚可，买入。"
     },
     {
       "symbol": "300476",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PCB涨幅大，PE 71倍，短期情绪过热。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.3,
+      "rationale": "AI-PCB趋势强但短期涨幅较大，持有。"
     },
     {
       "symbol": "002463",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 46倍不低，股价高位，倾向调整。"
+      "action": "buy",
+      "confidence": 0.7,
+      "size": 0.3,
+      "rationale": "高端PCB龙头，PE 46合理，需求旺盛，买入。"
     },
     {
       "symbol": "002916",
-      "action": "sell",
+      "action": "hold",
       "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 60倍，股价冲高，获利了结。"
+      "size": 0.3,
+      "rationale": "PCB PE 60，趋势强但短期可能震荡，持有。"
     },
     {
       "symbol": "002938",
-      "action": "hold",
-      "confidence": 0.5,
-      "size": 0.2,
-      "rationale": "PE 53倍合理，消费电子+AI双轮，持有。"
+      "action": "buy",
+      "confidence": 0.7,
+      "size": 0.3,
+      "rationale": "AI-PCB新晋龙头，PE 53合理，趋势加速，买入。"
     },
     {
       "symbol": "600183",
-      "action": "sell",
+      "action": "hold",
       "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "覆铜板涨价股价大涨后估值55倍，短期过热。"
+      "size": 0.3,
+      "rationale": "覆铜板龙头，PE 55，趋势强劲，持有。"
     },
     {
       "symbol": "002436",
       "action": "sell",
-      "confidence": 0.8,
-      "size": 0.1,
-      "rationale": "PE 370倍极高，无业绩支撑，卖出。"
+      "confidence": 0.6,
+      "size": 0.3,
+      "rationale": "PE 370极高，PCB概念炒作，近期回调，卖出。"
     },
     {
       "symbol": "688261",
-      "action": "sell",
-      "confidence": 0.6,
-      "size": 0.1,
-      "rationale": "PE 232倍高，功率半导体跟涨后回落。"
+      "action": "hold",
+      "confidence": 0.5,
+      "size": 0.2,
+      "rationale": "功率半导体高估值，暂持。"
     },
     {
       "symbol": "688019",
       "action": "buy",
       "confidence": 0.6,
       "size": 0.3,
-      "rationale": "PE 58倍合理，半导体材料国产替代，趋势稳。"
+      "rationale": "半导体材料PE 58合理，CMP抛光液龙头，趋势向好，买入。"
     },
     {
       "symbol": "002409",
       "action": "buy",
       "confidence": 0.7,
-      "size": 0.3,
-      "rationale": "PE 50倍，前驱体龙头，业绩增长确定，走势强。"
+      "size": 0.4,
+      "rationale": "半导体材料平台，PE 50，HBM前驱体受益，趋势强，买入。"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T08:39:07.918Z",
+  "generated_at": "2026-05-18T11:36:54.493Z",
   "items": [
     {
       "symbol": "688256",
@@ -223,13 +223,13 @@
     },
     {
       "symbol": "600900",
-      "buy_count": 119,
-      "total_count": 123,
-      "buy_ratio": 0.967,
-      "consensus_eps_next": 1.4985,
-      "implied_target": 27.466,
+      "buy_count": 120,
+      "total_count": 124,
+      "buy_ratio": 0.968,
+      "consensus_eps_next": 1.497,
+      "implied_target": 27.439,
       "current_price": 27.03,
-      "upside_pct": 1.61
+      "upside_pct": 1.51
     },
     {
       "symbol": "601985",
@@ -253,13 +253,13 @@
     },
     {
       "symbol": "600905",
-      "buy_count": 48,
-      "total_count": 50,
-      "buy_ratio": 0.96,
-      "consensus_eps_next": 0.31,
-      "implied_target": 15.786,
+      "buy_count": 49,
+      "total_count": 51,
+      "buy_ratio": 0.961,
+      "consensus_eps_next": 0.295,
+      "implied_target": 15.022,
       "current_price": 4.11,
-      "upside_pct": 284.09
+      "upside_pct": 265.5
     },
     {
       "symbol": "600886",
@@ -293,13 +293,13 @@
     },
     {
       "symbol": "300383",
-      "buy_count": 15,
-      "total_count": 25,
-      "buy_ratio": 0.6,
-      "consensus_eps_next": 0.255,
-      "implied_target": 48244,
+      "buy_count": 12,
+      "total_count": 22,
+      "buy_ratio": 0.545,
+      "consensus_eps_next": 0.25,
+      "implied_target": 48672,
       "current_price": 16.71,
-      "upside_pct": 288613.35
+      "upside_pct": 291174.69
     },
     {
       "symbol": "603881",
@@ -403,8 +403,8 @@
     },
     {
       "symbol": "603986",
-      "buy_count": 204,
-      "total_count": 219,
+      "buy_count": 205,
+      "total_count": 220,
       "buy_ratio": 0.932,
       "consensus_eps_next": 3.13,
       "implied_target": 286.528,
