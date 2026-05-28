@@ -556,13 +556,6 @@
       "global_supply": false
     },
     {
-      "symbol": "002261",
-      "name": "拓维信息",
-      "theme": "AI服务器",
-      "note": "华为昇腾整机合作伙伴，AI服务器出货量快速增长",
-      "global_supply": false
-    },
-    {
       "symbol": "300548",
       "name": "博创科技",
       "theme": "光模块",
@@ -574,6 +567,83 @@
       "name": "万业企业",
       "theme": "半导体设备",
       "note": "离子注入机龙头，半导体制造关键设备，国产替代核心标的",
+      "global_supply": false
+    },
+    {
+      "symbol": "300913",
+      "name": "兆龙互连",
+      "theme": "光模块",
+      "note": "高速铜缆互连龙头，产品用于AI服务器内部互联，弥补高速互连环节",
+      "global_supply": false
+    },
+    {
+      "symbol": "688498",
+      "name": "源杰科技",
+      "theme": "光模块",
+      "note": "光芯片龙头，为光模块提供25G/50G激光器芯片，AI算力驱动需求",
+      "global_supply": false
+    },
+    {
+      "symbol": "688268",
+      "name": "华特气体",
+      "theme": "半导体材料",
+      "note": "电子特气龙头，已进入台积电等全球供应链，受益AI芯片扩产",
+      "global_supply": true
+    },
+    {
+      "symbol": "688525",
+      "name": "佰维存储",
+      "theme": "存储/HBM",
+      "note": "存储模组厂商，企业级SSD产品直接受益AI服务器扩容需求",
+      "global_supply": false
+    },
+    {
+      "symbol": "688668",
+      "name": "鼎通科技",
+      "theme": "光模块",
+      "note": "高速连接器组件核心供应商，通过安费诺等间接进入NVIDIA AI服务器供应链",
+      "global_supply": true
+    },
+    {
+      "symbol": "002851",
+      "name": "麦格米特",
+      "theme": "AI服务器",
+      "note": "英伟达AI服务器电源供应商，进入全球供应链",
+      "global_supply": true
+    },
+    {
+      "symbol": "300570",
+      "name": "太辰光",
+      "theme": "光模块",
+      "note": "MT插芯及光纤连接器龙头，进入海外光模块供应链",
+      "global_supply": true
+    },
+    {
+      "symbol": "000034",
+      "name": "神州数码",
+      "theme": "AI服务器",
+      "note": "华为昇腾AI服务器整机合作伙伴，国产算力龙头",
+      "global_supply": false
+    },
+    {
+      "symbol": "688535",
+      "name": "华海诚科",
+      "theme": "半导体材料",
+      "note": "环氧塑封料龙头，用于HBM等先进封装",
+      "global_supply": false
+    },
+    {
+      "symbol": "688361",
+      "name": "中科飞测",
+      "theme": "半导体设备",
+      "note": "半导体量测设备龙头，用于先进制程质控",
+      "global_supply": false
+    },
+    {
+      "symbol": "603650",
+      "name": "彤程新材",
+      "theme": "半导体材料",
+      "note": "半导体光刻胶龙头，国产替代核心",
       "global_supply": false
     }
   ]
