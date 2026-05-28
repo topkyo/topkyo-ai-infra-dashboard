@@ -1,6 +1,6 @@
 {
   "$schema_note": "topkyo 个人 AI 基建主题 A 股 watchlist。可通过 UI 或 DeepSeek 刷新维护。",
-  "updated_at": "2026-05-27",
+  "updated_at": "2026-05-28",
   "updated_by": "deepseek-refresh",
   "entries": [
     {
@@ -532,6 +532,48 @@
       "name": "鼎龙股份",
       "theme": "半导体材料",
       "note": "CMP抛光垫龙头，打破国外垄断，用于晶圆制造先进制程，受益AI芯片制造需求",
+      "global_supply": false
+    },
+    {
+      "symbol": "600406",
+      "name": "国电南瑞",
+      "theme": "电力",
+      "note": "电网自动化与特高压核心供应商，受益于AI电力基础设施建设",
+      "global_supply": false
+    },
+    {
+      "symbol": "688234",
+      "name": "天岳先进",
+      "theme": "半导体材料",
+      "note": "SiC衬底龙头，已进入英飞凌等全球供应链，间接支持AI服务器电源",
+      "global_supply": true
+    },
+    {
+      "symbol": "688469",
+      "name": "芯联集成",
+      "theme": "晶圆代工",
+      "note": "国内领先的IGBT/SiC代工厂，服务于功率半导体产业链",
+      "global_supply": false
+    },
+    {
+      "symbol": "002261",
+      "name": "拓维信息",
+      "theme": "AI服务器",
+      "note": "华为昇腾整机合作伙伴，AI服务器出货量快速增长",
+      "global_supply": false
+    },
+    {
+      "symbol": "300548",
+      "name": "博创科技",
+      "theme": "光模块",
+      "note": "光器件供应商，受益于数据中心光模块需求，部分产品出口",
+      "global_supply": true
+    },
+    {
+      "symbol": "600641",
+      "name": "万业企业",
+      "theme": "半导体设备",
+      "note": "离子注入机龙头，半导体制造关键设备，国产替代核心标的",
       "global_supply": false
     }
   ]
