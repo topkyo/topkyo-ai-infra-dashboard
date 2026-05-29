@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T14:48:36.143Z",
+  "generated_at": "2026-05-29T15:43:19.663Z",
   "items": [
     {
       "symbol": "688256",
@@ -11,11 +11,9 @@
       "current_price": 1310,
       "upside_pct": 96.79,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:07.827429",
+      "fetched_at": "2026-05-29T23:40:31.105848",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -37,11 +35,9 @@
       "current_price": 293.9,
       "upside_pct": 54.33,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:07.827978",
+      "fetched_at": "2026-05-29T23:40:31.105998",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -63,11 +59,9 @@
       "current_price": 57.87,
       "upside_pct": -418.25,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:07.826755",
+      "fetched_at": "2026-05-29T23:40:31.106244",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -89,11 +83,9 @@
       "current_price": 79.3,
       "upside_pct": 106.22,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:07.827913",
+      "fetched_at": "2026-05-29T23:40:31.106756",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -115,11 +107,9 @@
       "current_price": 60.41,
       "upside_pct": 326.23,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:09.640136",
+      "fetched_at": "2026-05-29T23:40:31.464589",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -141,11 +131,9 @@
       "current_price": 1161.16,
       "upside_pct": -17.22,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:10.220179",
+      "fetched_at": "2026-05-29T23:40:35.576001",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -167,11 +155,9 @@
       "current_price": 706.45,
       "upside_pct": -6.32,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:12.452038",
+      "fetched_at": "2026-05-29T23:40:36.147801",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -193,11 +179,9 @@
       "current_price": 455.2,
       "upside_pct": 75.07,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:13.267591",
+      "fetched_at": "2026-05-29T23:40:36.656477",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -219,11 +203,9 @@
       "current_price": 151.92,
       "upside_pct": 28.4,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:14.541675",
+      "fetched_at": "2026-05-29T23:40:37.222403",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -245,11 +227,9 @@
       "current_price": 203.95,
       "upside_pct": 40.54,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:15.798193",
+      "fetched_at": "2026-05-29T23:40:50.579469",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -271,11 +251,9 @@
       "current_price": 207.7,
       "upside_pct": 153.63,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:16.399220",
+      "fetched_at": "2026-05-29T23:40:51.436219",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -297,11 +275,9 @@
       "current_price": 316.02,
       "upside_pct": 89.95,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:16.993379",
+      "fetched_at": "2026-05-29T23:40:53.481482",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -323,11 +299,9 @@
       "current_price": 73.4,
       "upside_pct": -8.22,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:17.905548",
+      "fetched_at": "2026-05-29T23:40:54.130450",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -349,11 +323,9 @@
       "current_price": 64.63,
       "upside_pct": 35.92,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:19.320944",
+      "fetched_at": "2026-05-29T23:41:00.722181",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -375,11 +347,9 @@
       "current_price": 88.22,
       "upside_pct": 36.57,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:20.069993",
+      "fetched_at": "2026-05-29T23:41:01.261359",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -401,11 +371,9 @@
       "current_price": 28.64,
       "upside_pct": 35.27,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:20.201347",
+      "fetched_at": "2026-05-29T23:41:01.759088",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -427,11 +395,9 @@
       "current_price": 36.72,
       "upside_pct": 156.01,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:21.148582",
+      "fetched_at": "2026-05-29T23:41:02.842358",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -453,11 +419,9 @@
       "current_price": 91,
       "upside_pct": 160.12,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:22.168148",
+      "fetched_at": "2026-05-29T23:41:07.602335",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -479,11 +443,9 @@
       "current_price": 143.3,
       "upside_pct": 86.21,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:23.260527",
+      "fetched_at": "2026-05-29T23:41:08.672947",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -505,11 +467,9 @@
       "current_price": 38.2,
       "upside_pct": 109.95,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:24.707569",
+      "fetched_at": "2026-05-29T23:41:09.778812",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -531,11 +491,9 @@
       "current_price": 45.3,
       "upside_pct": 21.17,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:26.526961",
+      "fetched_at": "2026-05-29T23:41:11.298379",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -557,11 +515,9 @@
       "current_price": 27.75,
       "upside_pct": 1.51,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:27.343547",
+      "fetched_at": "2026-05-29T23:41:16.559436",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -583,11 +539,9 @@
       "current_price": 9.04,
       "upside_pct": 59.91,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:28.454082",
+      "fetched_at": "2026-05-29T23:41:17.526946",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -609,11 +563,9 @@
       "current_price": 4.58,
       "upside_pct": 33.12,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:30.126112",
+      "fetched_at": "2026-05-29T23:41:18.028980",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -635,11 +587,9 @@
       "current_price": 4.17,
       "upside_pct": 265.44,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:31.659133",
+      "fetched_at": "2026-05-29T23:41:18.823859",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -661,11 +611,9 @@
       "current_price": 14.3,
       "upside_pct": 14.15,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:33.158465",
+      "fetched_at": "2026-05-29T23:41:28.128331",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -687,11 +635,9 @@
       "current_price": 8.87,
       "upside_pct": 2.62,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:33.767151",
+      "fetched_at": "2026-05-29T23:41:29.061288",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -713,11 +659,9 @@
       "current_price": 83.87,
       "upside_pct": -28.05,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:34.649389",
+      "fetched_at": "2026-05-29T23:41:29.643005",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -739,11 +683,9 @@
       "current_price": 13.66,
       "upside_pct": -155.76,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:35.775320",
+      "fetched_at": "2026-05-29T23:41:30.635040",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -765,11 +707,9 @@
       "current_price": 35.4,
       "upside_pct": 49.38,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:36.370008",
+      "fetched_at": "2026-05-29T23:41:35.371300",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -791,11 +731,9 @@
       "current_price": 21.76,
       "upside_pct": 81.89,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:37.399168",
+      "fetched_at": "2026-05-29T23:41:35.925443",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -817,11 +755,9 @@
       "current_price": 39.06,
       "upside_pct": 255.25,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:37.920823",
+      "fetched_at": "2026-05-29T23:41:36.406622",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -843,11 +779,9 @@
       "current_price": 128.7,
       "upside_pct": 293.34,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:39.085721",
+      "fetched_at": "2026-05-29T23:41:37.396483",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -869,11 +803,9 @@
       "current_price": 61,
       "upside_pct": 16.45,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:39.513499",
+      "fetched_at": "2026-05-29T23:41:42.175731",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -895,11 +827,9 @@
       "current_price": 33.9,
       "upside_pct": 1113.88,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:39.988699",
+      "fetched_at": "2026-05-29T23:41:42.957907",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -921,11 +851,9 @@
       "current_price": 66.61,
       "upside_pct": 82.14,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:40.458108",
+      "fetched_at": "2026-05-29T23:41:43.329928",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -947,11 +875,9 @@
       "current_price": 34.6,
       "upside_pct": 79.53,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:41.098291",
+      "fetched_at": "2026-05-29T23:41:44.433933",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -973,11 +899,9 @@
       "current_price": 64.09,
       "upside_pct": 42,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:41.625706",
+      "fetched_at": "2026-05-29T23:41:46.839147",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -999,11 +923,9 @@
       "current_price": 20.67,
       "upside_pct": -134.91,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:42.202491",
+      "fetched_at": "2026-05-29T23:41:47.952114",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1025,11 +947,9 @@
       "current_price": 467.01,
       "upside_pct": -23.42,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:43.007551",
+      "fetched_at": "2026-05-29T23:41:48.490865",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1051,11 +971,9 @@
       "current_price": 253,
       "upside_pct": 19.23,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:43.598600",
+      "fetched_at": "2026-05-29T23:41:50.058348",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1077,11 +995,9 @@
       "current_price": 157.46,
       "upside_pct": 12.62,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:43.763995",
+      "fetched_at": "2026-05-29T23:41:52.085590",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1103,11 +1019,9 @@
       "current_price": 551.29,
       "upside_pct": -78.84,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:44.647253",
+      "fetched_at": "2026-05-29T23:41:53.251785",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1129,11 +1043,9 @@
       "current_price": 66,
       "upside_pct": 9.12,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:45.702725",
+      "fetched_at": "2026-05-29T23:41:54.669206",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1155,11 +1067,9 @@
       "current_price": 82.05,
       "upside_pct": 84.12,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:46.774118",
+      "fetched_at": "2026-05-29T23:41:56.271407",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1181,11 +1091,9 @@
       "current_price": 19.34,
       "upside_pct": 60.18,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:47.255252",
+      "fetched_at": "2026-05-29T23:41:58.912369",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1207,11 +1115,9 @@
       "current_price": 629.87,
       "upside_pct": 124.36,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:49.844586",
+      "fetched_at": "2026-05-29T23:42:00.057973",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1233,11 +1139,9 @@
       "current_price": 297.68,
       "upside_pct": 77.86,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:50.521965",
+      "fetched_at": "2026-05-29T23:42:01.052166",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1259,11 +1163,9 @@
       "current_price": 627.99,
       "upside_pct": -4.41,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:51.515209",
+      "fetched_at": "2026-05-29T23:42:02.862359",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1285,11 +1187,9 @@
       "current_price": 27.7,
       "upside_pct": -116.69,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:52.001393",
+      "fetched_at": "2026-05-29T23:42:06.056211",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1311,11 +1211,9 @@
       "current_price": 368.52,
       "upside_pct": 69.37,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:53.479187",
+      "fetched_at": "2026-05-29T23:42:08.255704",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1337,11 +1235,9 @@
       "current_price": 132.04,
       "upside_pct": 2.88,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:54.206692",
+      "fetched_at": "2026-05-29T23:42:09.311494",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1363,11 +1259,9 @@
       "current_price": 411.41,
       "upside_pct": 12.17,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:54.763435",
+      "fetched_at": "2026-05-29T23:42:10.869380",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1389,11 +1283,9 @@
       "current_price": 105.01,
       "upside_pct": 36.12,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:55.204827",
+      "fetched_at": "2026-05-29T23:42:13.722950",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1415,11 +1307,9 @@
       "current_price": 140.62,
       "upside_pct": -0.14,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:55.713671",
+      "fetched_at": "2026-05-29T23:42:18.858482",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1441,11 +1331,9 @@
       "current_price": 38.68,
       "upside_pct": 241.54,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:56.807287",
+      "fetched_at": "2026-05-29T23:42:19.842863",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1467,11 +1355,9 @@
       "current_price": 93.53,
       "upside_pct": 333.56,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:57.841060",
+      "fetched_at": "2026-05-29T23:42:21.995350",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1493,11 +1379,9 @@
       "current_price": 284.23,
       "upside_pct": 47.64,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:58.761940",
+      "fetched_at": "2026-05-29T23:42:25.230694",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1519,11 +1403,9 @@
       "current_price": 107.67,
       "upside_pct": 51.28,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:47:59.450936",
+      "fetched_at": "2026-05-29T23:42:26.708460",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1545,11 +1427,9 @@
       "current_price": 139.91,
       "upside_pct": 23.08,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:00.672371",
+      "fetched_at": "2026-05-29T23:42:27.247093",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1571,11 +1451,9 @@
       "current_price": 99.1,
       "upside_pct": 16.48,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:01.892720",
+      "fetched_at": "2026-05-29T23:42:28.523149",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1597,11 +1475,9 @@
       "current_price": 6.05,
       "upside_pct": 21.36,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:02.679452",
+      "fetched_at": "2026-05-29T23:42:30.805790",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1623,11 +1499,9 @@
       "current_price": 229.04,
       "upside_pct": 64.73,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:04.014961",
+      "fetched_at": "2026-05-29T23:42:31.962670",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1649,11 +1523,9 @@
       "current_price": 51.54,
       "upside_pct": 23,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:05.598655",
+      "fetched_at": "2026-05-29T23:42:32.913958",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1675,11 +1547,9 @@
       "current_price": 15.64,
       "upside_pct": null,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:06.162418",
+      "fetched_at": "2026-05-29T23:42:34.107106",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1698,11 +1568,9 @@
       "current_price": 190.2,
       "upside_pct": 19.43,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:06.711839",
+      "fetched_at": "2026-05-29T23:42:37.298384",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1724,11 +1592,9 @@
       "current_price": 4.35,
       "upside_pct": 30,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:07.297570",
+      "fetched_at": "2026-05-29T23:42:38.326148",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1750,11 +1616,9 @@
       "current_price": 12.86,
       "upside_pct": 166.4,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:07.783909",
+      "fetched_at": "2026-05-29T23:42:38.852196",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1776,11 +1640,9 @@
       "current_price": 261.29,
       "upside_pct": 117.49,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:08.783618",
+      "fetched_at": "2026-05-29T23:42:42.588643",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1802,11 +1664,9 @@
       "current_price": 245.3,
       "upside_pct": 611.58,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:10.890641",
+      "fetched_at": "2026-05-29T23:42:43.008511",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1828,11 +1688,9 @@
       "current_price": 79.18,
       "upside_pct": 79.45,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:11.819961",
+      "fetched_at": "2026-05-29T23:42:44.000677",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1854,11 +1712,9 @@
       "current_price": 39.79,
       "upside_pct": null,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:11.951279",
+      "fetched_at": "2026-05-29T23:42:44.476448",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1877,11 +1733,9 @@
       "current_price": 20.15,
       "upside_pct": 325.42,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:13.254513",
+      "fetched_at": "2026-05-29T23:42:48.143242",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1903,11 +1757,9 @@
       "current_price": 246.84,
       "upside_pct": -123.52,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:14.454422",
+      "fetched_at": "2026-05-29T23:42:48.328748",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1929,11 +1781,9 @@
       "current_price": 236.68,
       "upside_pct": 128.91,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:15.044795",
+      "fetched_at": "2026-05-29T23:42:48.816279",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1955,11 +1805,9 @@
       "current_price": 398.04,
       "upside_pct": -0.78,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:16.233940",
+      "fetched_at": "2026-05-29T23:42:52.931001",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -1981,11 +1829,9 @@
       "current_price": 67.14,
       "upside_pct": 7.35,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:16.731522",
+      "fetched_at": "2026-05-29T23:42:53.858897",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2007,11 +1853,9 @@
       "current_price": 24.9,
       "upside_pct": 15.84,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:18.519490",
+      "fetched_at": "2026-05-29T23:42:54.138075",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2033,11 +1877,9 @@
       "current_price": 147.1,
       "upside_pct": -296.58,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:18.804271",
+      "fetched_at": "2026-05-29T23:42:54.517054",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2059,11 +1901,9 @@
       "current_price": 8.06,
       "upside_pct": -116.74,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:19.820541",
+      "fetched_at": "2026-05-29T23:42:58.259605",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2085,11 +1925,9 @@
       "current_price": 249.21,
       "upside_pct": -28.21,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:20.818554",
+      "fetched_at": "2026-05-29T23:42:59.171067",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2111,11 +1949,9 @@
       "current_price": 26.9,
       "upside_pct": -369.41,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:21.854585",
+      "fetched_at": "2026-05-29T23:43:00.167447",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2137,11 +1973,9 @@
       "current_price": 59.35,
       "upside_pct": 10.88,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:22.875501",
+      "fetched_at": "2026-05-29T23:43:00.364508",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2163,11 +1997,9 @@
       "current_price": 1132.79,
       "upside_pct": -10.13,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:23.037639",
+      "fetched_at": "2026-05-29T23:43:04.968725",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2189,11 +2021,9 @@
       "current_price": 143.1,
       "upside_pct": 199.66,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:23.515776",
+      "fetched_at": "2026-05-29T23:43:05.414596",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2215,11 +2045,9 @@
       "current_price": 327.37,
       "upside_pct": -78.12,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:24.915194",
+      "fetched_at": "2026-05-29T23:43:05.633535",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2241,11 +2069,9 @@
       "current_price": 289.93,
       "upside_pct": 11.23,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:25.212518",
+      "fetched_at": "2026-05-29T23:43:06.469518",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2267,11 +2093,9 @@
       "current_price": 126.05,
       "upside_pct": 610.02,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:26.589086",
+      "fetched_at": "2026-05-29T23:43:09.356306",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2293,11 +2117,9 @@
       "current_price": 165.42,
       "upside_pct": 116.28,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:27.890974",
+      "fetched_at": "2026-05-29T23:43:09.870746",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2319,11 +2141,9 @@
       "current_price": 25.84,
       "upside_pct": 444.35,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:28.677471",
+      "fetched_at": "2026-05-29T23:43:10.501688",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2345,11 +2165,9 @@
       "current_price": 120.19,
       "upside_pct": 382.97,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:29.802118",
+      "fetched_at": "2026-05-29T23:43:10.850681",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2371,11 +2189,9 @@
       "current_price": 217.89,
       "upside_pct": 7149.88,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:30.576336",
+      "fetched_at": "2026-05-29T23:43:15.517639",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
@@ -2397,11 +2213,9 @@
       "current_price": 52.68,
       "upside_pct": 31.18,
       "source": "unknown",
-      "fetched_at": "2026-05-29T22:48:32.392380",
+      "fetched_at": "2026-05-29T23:43:15.985811",
       "error": null,
-      "warnings": [
-        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
-      ],
+      "warnings": [],
       "field_sources": {
         "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
