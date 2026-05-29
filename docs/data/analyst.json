@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T12:14:02.021Z",
+  "generated_at": "2026-05-29T14:48:36.143Z",
   "items": [
     {
       "symbol": "688256",
@@ -10,14 +10,14 @@
       "implied_target": 2577.966,
       "current_price": 1310,
       "upside_pct": 96.79,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:25.457320",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:07.827429",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -36,14 +36,14 @@
       "implied_target": 453.562,
       "current_price": 293.9,
       "upside_pct": 54.33,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:25.457512",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:07.827978",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -62,14 +62,14 @@
       "implied_target": -184.17,
       "current_price": 57.87,
       "upside_pct": -418.25,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:25.457429",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:07.826755",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -88,14 +88,14 @@
       "implied_target": 163.53,
       "current_price": 79.3,
       "upside_pct": 106.22,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:25.455302",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:07.827913",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -114,14 +114,14 @@
       "implied_target": 257.487,
       "current_price": 60.41,
       "upside_pct": 326.23,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:26.325280",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:09.640136",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -140,14 +140,14 @@
       "implied_target": 961.224,
       "current_price": 1161.16,
       "upside_pct": -17.22,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:27.055156",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:10.220179",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -166,14 +166,14 @@
       "implied_target": 661.781,
       "current_price": 706.45,
       "upside_pct": -6.32,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:27.510245",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:12.452038",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -192,14 +192,14 @@
       "implied_target": 796.925,
       "current_price": 455.2,
       "upside_pct": 75.07,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:28.555117",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:13.267591",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -218,14 +218,14 @@
       "implied_target": 195.063,
       "current_price": 151.92,
       "upside_pct": 28.4,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:28.828337",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:14.541675",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -244,14 +244,14 @@
       "implied_target": 286.624,
       "current_price": 203.95,
       "upside_pct": 40.54,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:29.757649",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:15.798193",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -270,14 +270,14 @@
       "implied_target": 526.795,
       "current_price": 207.7,
       "upside_pct": 153.63,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:30.095599",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:16.399220",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -296,14 +296,14 @@
       "implied_target": 600.279,
       "current_price": 316.02,
       "upside_pct": 89.95,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:32.106586",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:16.993379",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -322,14 +322,14 @@
       "implied_target": 67.364,
       "current_price": 73.4,
       "upside_pct": -8.22,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:32.112330",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:17.905548",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -348,14 +348,14 @@
       "implied_target": 87.847,
       "current_price": 64.63,
       "upside_pct": 35.92,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:32.743217",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:19.320944",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -374,14 +374,14 @@
       "implied_target": 120.481,
       "current_price": 88.22,
       "upside_pct": 36.57,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:32.835308",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:20.069993",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -400,14 +400,14 @@
       "implied_target": 38.742,
       "current_price": 28.64,
       "upside_pct": 35.27,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:33.146739",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:20.201347",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -426,14 +426,14 @@
       "implied_target": 94.007,
       "current_price": 36.72,
       "upside_pct": 156.01,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:33.832452",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:21.148582",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -452,14 +452,14 @@
       "implied_target": 236.708,
       "current_price": 91,
       "upside_pct": 160.12,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:34.398345",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:22.168148",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -478,14 +478,14 @@
       "implied_target": 266.841,
       "current_price": 143.3,
       "upside_pct": 86.21,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:34.917504",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:23.260527",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -504,14 +504,14 @@
       "implied_target": 80.199,
       "current_price": 38.2,
       "upside_pct": 109.95,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:35.209452",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:24.707569",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -530,14 +530,14 @@
       "implied_target": 54.891,
       "current_price": 45.3,
       "upside_pct": 21.17,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:36.367923",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:26.526961",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -556,14 +556,14 @@
       "implied_target": 28.17,
       "current_price": 27.75,
       "upside_pct": 1.51,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:36.867793",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:27.343547",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -582,14 +582,14 @@
       "implied_target": 14.456,
       "current_price": 9.04,
       "upside_pct": 59.91,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:37.068785",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:28.454082",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -608,14 +608,14 @@
       "implied_target": 6.097,
       "current_price": 4.58,
       "upside_pct": 33.12,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:37.651804",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:30.126112",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -634,14 +634,14 @@
       "implied_target": 15.239,
       "current_price": 4.17,
       "upside_pct": 265.44,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:37.979898",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:31.659133",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -653,21 +653,21 @@
     },
     {
       "symbol": "600886",
-      "buy_count": 57,
-      "total_count": 60,
-      "buy_ratio": 0.95,
+      "buy_count": 58,
+      "total_count": 61,
+      "buy_ratio": 0.951,
       "consensus_eps_next": 1.06,
       "implied_target": 16.323,
       "current_price": 14.3,
       "upside_pct": 14.15,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:38.415076",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:33.158465",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -686,14 +686,14 @@
       "implied_target": 9.102,
       "current_price": 8.87,
       "upside_pct": 2.62,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:38.591678",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:33.767151",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -712,14 +712,14 @@
       "implied_target": 60.341,
       "current_price": 83.87,
       "upside_pct": -28.05,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:39.383533",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:34.649389",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -738,14 +738,14 @@
       "implied_target": -7.617,
       "current_price": 13.66,
       "upside_pct": -155.76,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:39.733492",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:35.775320",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -764,14 +764,14 @@
       "implied_target": 52.882,
       "current_price": 35.4,
       "upside_pct": 49.38,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:39.879786",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:36.370008",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -790,14 +790,14 @@
       "implied_target": 39.58,
       "current_price": 21.76,
       "upside_pct": 81.89,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:40.143462",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:37.399168",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -816,14 +816,14 @@
       "implied_target": 138.762,
       "current_price": 39.06,
       "upside_pct": 255.25,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:40.518371",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:37.920823",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -842,14 +842,14 @@
       "implied_target": 506.226,
       "current_price": 128.7,
       "upside_pct": 293.34,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:41.693847",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:39.085721",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -868,14 +868,14 @@
       "implied_target": 71.032,
       "current_price": 61,
       "upside_pct": 16.45,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:42.456336",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:39.513499",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -894,14 +894,14 @@
       "implied_target": 411.505,
       "current_price": 33.9,
       "upside_pct": 1113.88,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:42.388184",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:39.988699",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -920,14 +920,14 @@
       "implied_target": 121.321,
       "current_price": 66.61,
       "upside_pct": 82.14,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:43.102823",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:40.458108",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -946,14 +946,14 @@
       "implied_target": 62.117,
       "current_price": 34.6,
       "upside_pct": 79.53,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:43.507023",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:41.098291",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -972,14 +972,14 @@
       "implied_target": 91.005,
       "current_price": 64.09,
       "upside_pct": 42,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:43.920176",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:41.625706",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -998,14 +998,14 @@
       "implied_target": -7.216,
       "current_price": 20.67,
       "upside_pct": -134.91,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:44.411911",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:42.202491",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1024,14 +1024,14 @@
       "implied_target": 357.646,
       "current_price": 467.01,
       "upside_pct": -23.42,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:44.735845",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:43.007551",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1050,14 +1050,14 @@
       "implied_target": 301.646,
       "current_price": 253,
       "upside_pct": 19.23,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:44.997694",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:43.598600",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1076,14 +1076,14 @@
       "implied_target": 177.325,
       "current_price": 157.46,
       "upside_pct": 12.62,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:45.426386",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:43.763995",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1102,14 +1102,14 @@
       "implied_target": 116.672,
       "current_price": 551.29,
       "upside_pct": -78.84,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:45.886926",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:44.647253",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1128,14 +1128,14 @@
       "implied_target": 72.02,
       "current_price": 66,
       "upside_pct": 9.12,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:46.378139",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:45.702725",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1154,14 +1154,14 @@
       "implied_target": 151.074,
       "current_price": 82.05,
       "upside_pct": 84.12,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:46.877409",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:46.774118",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1180,14 +1180,14 @@
       "implied_target": 30.979,
       "current_price": 19.34,
       "upside_pct": 60.18,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:47.042208",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:47.255252",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1206,14 +1206,14 @@
       "implied_target": 1413.204,
       "current_price": 629.87,
       "upside_pct": 124.36,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:47.245280",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:49.844586",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1232,14 +1232,14 @@
       "implied_target": 529.447,
       "current_price": 297.68,
       "upside_pct": 77.86,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:47.745914",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:50.521965",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1258,14 +1258,14 @@
       "implied_target": 600.306,
       "current_price": 627.99,
       "upside_pct": -4.41,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:48.067514",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:51.515209",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1284,14 +1284,14 @@
       "implied_target": -4.624,
       "current_price": 27.7,
       "upside_pct": -116.69,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:48.270702",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:52.001393",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1310,14 +1310,14 @@
       "implied_target": 624.165,
       "current_price": 368.52,
       "upside_pct": 69.37,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:49.306487",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:53.479187",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1336,14 +1336,14 @@
       "implied_target": 135.849,
       "current_price": 132.04,
       "upside_pct": 2.88,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:49.532318",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:54.206692",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1362,14 +1362,14 @@
       "implied_target": 461.472,
       "current_price": 411.41,
       "upside_pct": 12.17,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:49.989064",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:54.763435",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1388,14 +1388,14 @@
       "implied_target": 142.94,
       "current_price": 105.01,
       "upside_pct": 36.12,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:50.698536",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:55.204827",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1414,14 +1414,14 @@
       "implied_target": 140.426,
       "current_price": 140.62,
       "upside_pct": -0.14,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:50.890485",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:55.713671",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1440,14 +1440,14 @@
       "implied_target": 132.108,
       "current_price": 38.68,
       "upside_pct": 241.54,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:50.875242",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:56.807287",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1466,14 +1466,14 @@
       "implied_target": 405.508,
       "current_price": 93.53,
       "upside_pct": 333.56,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:51.305400",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:57.841060",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1492,14 +1492,14 @@
       "implied_target": 419.624,
       "current_price": 284.23,
       "upside_pct": 47.64,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:51.666721",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:58.761940",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1518,14 +1518,14 @@
       "implied_target": 162.881,
       "current_price": 107.67,
       "upside_pct": 51.28,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:52.141303",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:47:59.450936",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1544,14 +1544,14 @@
       "implied_target": 172.205,
       "current_price": 139.91,
       "upside_pct": 23.08,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:52.626787",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:00.672371",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1570,14 +1570,14 @@
       "implied_target": 115.431,
       "current_price": 99.1,
       "upside_pct": 16.48,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:52.864506",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:01.892720",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1596,14 +1596,14 @@
       "implied_target": 7.342,
       "current_price": 6.05,
       "upside_pct": 21.36,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:53.093752",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:02.679452",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1622,14 +1622,14 @@
       "implied_target": 377.296,
       "current_price": 229.04,
       "upside_pct": 64.73,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:53.325199",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:04.014961",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1648,14 +1648,14 @@
       "implied_target": 63.393,
       "current_price": 51.54,
       "upside_pct": 23,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:53.785286",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:05.598655",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1674,14 +1674,14 @@
       "implied_target": null,
       "current_price": 15.64,
       "upside_pct": null,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:54.029462",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:06.162418",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1697,14 +1697,14 @@
       "implied_target": 227.164,
       "current_price": 190.2,
       "upside_pct": 19.43,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:54.334992",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:06.711839",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1723,14 +1723,14 @@
       "implied_target": 5.655,
       "current_price": 4.35,
       "upside_pct": 30,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:54.573653",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:07.297570",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1749,14 +1749,14 @@
       "implied_target": 34.259,
       "current_price": 12.86,
       "upside_pct": 166.4,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:54.798168",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:07.783909",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1775,14 +1775,14 @@
       "implied_target": 568.269,
       "current_price": 261.29,
       "upside_pct": 117.49,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:55.252561",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:08.783618",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1801,14 +1801,14 @@
       "implied_target": 1745.518,
       "current_price": 245.3,
       "upside_pct": 611.58,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:55.587783",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:10.890641",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1827,14 +1827,14 @@
       "implied_target": 142.085,
       "current_price": 79.18,
       "upside_pct": 79.45,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:55.784672",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:11.819961",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1853,14 +1853,14 @@
       "implied_target": null,
       "current_price": 39.79,
       "upside_pct": null,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:55.980955",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:11.951279",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1876,14 +1876,14 @@
       "implied_target": 85.723,
       "current_price": 20.15,
       "upside_pct": 325.42,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:56.179159",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:13.254513",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1902,14 +1902,14 @@
       "implied_target": -58.069,
       "current_price": 246.84,
       "upside_pct": -123.52,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:56.369566",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:14.454422",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1928,14 +1928,14 @@
       "implied_target": 541.782,
       "current_price": 236.68,
       "upside_pct": 128.91,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:56.590202",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:15.044795",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1954,14 +1954,14 @@
       "implied_target": 394.927,
       "current_price": 398.04,
       "upside_pct": -0.78,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:57.313982",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:16.233940",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -1980,14 +1980,14 @@
       "implied_target": 72.075,
       "current_price": 67.14,
       "upside_pct": 7.35,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:57.529065",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:16.731522",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2006,14 +2006,14 @@
       "implied_target": 28.845,
       "current_price": 24.9,
       "upside_pct": 15.84,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:57.764453",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:18.519490",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2032,14 +2032,14 @@
       "implied_target": -289.162,
       "current_price": 147.1,
       "upside_pct": -296.58,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:57.825392",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:18.804271",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2058,14 +2058,14 @@
       "implied_target": -1.349,
       "current_price": 8.06,
       "upside_pct": -116.74,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:58.050610",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:19.820541",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2084,14 +2084,14 @@
       "implied_target": 178.905,
       "current_price": 249.21,
       "upside_pct": -28.21,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:58.491792",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:20.818554",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2110,14 +2110,14 @@
       "implied_target": -72.47,
       "current_price": 26.9,
       "upside_pct": -369.41,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:58.834178",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:21.854585",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2136,14 +2136,14 @@
       "implied_target": 65.807,
       "current_price": 59.35,
       "upside_pct": 10.88,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:59.023030",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:22.875501",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2162,14 +2162,14 @@
       "implied_target": 1017.999,
       "current_price": 1132.79,
       "upside_pct": -10.13,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:59.171223",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:23.037639",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2188,14 +2188,14 @@
       "implied_target": 428.82,
       "current_price": 143.1,
       "upside_pct": 199.66,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:59.386561",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:23.515776",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2214,14 +2214,14 @@
       "implied_target": 71.615,
       "current_price": 327.37,
       "upside_pct": -78.12,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:59.665741",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:24.915194",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2240,14 +2240,14 @@
       "implied_target": 322.48,
       "current_price": 289.93,
       "upside_pct": 11.23,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:13:59.835682",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:25.212518",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2266,14 +2266,14 @@
       "implied_target": 894.985,
       "current_price": 126.05,
       "upside_pct": 610.02,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:14:00.070663",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:26.589086",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2292,14 +2292,14 @@
       "implied_target": 357.778,
       "current_price": 165.42,
       "upside_pct": 116.28,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:14:00.262850",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:27.890974",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2318,14 +2318,14 @@
       "implied_target": 140.66,
       "current_price": 25.84,
       "upside_pct": 444.35,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:14:00.444041",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:28.677471",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2344,14 +2344,14 @@
       "implied_target": 580.484,
       "current_price": 120.19,
       "upside_pct": 382.97,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:14:00.627177",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:29.802118",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2370,14 +2370,14 @@
       "implied_target": 15796.753,
       "current_price": 217.89,
       "upside_pct": 7149.88,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:14:00.958763",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:30.576336",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
@@ -2396,14 +2396,14 @@
       "implied_target": 69.107,
       "current_price": 52.68,
       "upside_pct": 31.18,
-      "source": "akshare_primary",
-      "fetched_at": "2026-05-29T20:14:01.155849",
+      "source": "unknown",
+      "fetched_at": "2026-05-29T22:48:32.392380",
       "error": null,
       "warnings": [
-        "current_price is latest daily close from AkShare stock_value_em, not realtime"
+        "Eastmoney push2 unavailable; using Sina hq.sinajs realtime quote"
       ],
       "field_sources": {
-        "current_price": "akshare_stock_value_em_close",
+        "current_price": "sina_hq_sinajs",
         "pe_ttm": "akshare_stock_value_em",
         "buy_count": "akshare_research_report",
         "total_count": "akshare_research_report",
